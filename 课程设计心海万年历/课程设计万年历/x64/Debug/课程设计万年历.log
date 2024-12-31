@@ -1,0 +1,183 @@
+﻿  万年历.cpp
+D:\c教学\玩C++\课程设计万年历2.0\课程设计万年历\CASE2.h(21,16): warning C4101: “Local”: 未引用的局部变量
+  (编译源文件“万年历.cpp”)
+  
+D:\c教学\玩C++\课程设计万年历2.0\课程设计万年历\CASE2.h(22,10): warning C4101: “t”: 未引用的局部变量
+  (编译源文件“万年历.cpp”)
+  
+D:\c教学\玩C++\课程设计万年历2.0\课程设计万年历\LunarToYear.h(47,24): warning C4305: “初始化”: 从“double”到“float”截断
+  (编译源文件“万年历.cpp”)
+  
+D:\c教学\玩C++\课程设计万年历2.0\课程设计万年历\LunarToYear.h(47,29): warning C4305: “初始化”: 从“double”到“float”截断
+  (编译源文件“万年历.cpp”)
+  
+D:\c教学\玩C++\课程设计万年历2.0\课程设计万年历\LunarToYear.h(47,35): warning C4305: “初始化”: 从“double”到“float”截断
+  (编译源文件“万年历.cpp”)
+  
+D:\c教学\玩C++\课程设计万年历2.0\课程设计万年历\LunarToYear.h(47,40): warning C4305: “初始化”: 从“double”到“float”截断
+  (编译源文件“万年历.cpp”)
+  
+D:\c教学\玩C++\课程设计万年历2.0\课程设计万年历\LunarToYear.h(47,47): warning C4305: “初始化”: 从“double”到“float”截断
+  (编译源文件“万年历.cpp”)
+  
+D:\c教学\玩C++\课程设计万年历2.0\课程设计万年历\LunarToYear.h(47,52): warning C4305: “初始化”: 从“double”到“float”截断
+  (编译源文件“万年历.cpp”)
+  
+D:\c教学\玩C++\课程设计万年历2.0\课程设计万年历\LunarToYear.h(47,57): warning C4305: “初始化”: 从“double”到“float”截断
+  (编译源文件“万年历.cpp”)
+  
+D:\c教学\玩C++\课程设计万年历2.0\课程设计万年历\LunarToYear.h(47,62): warning C4305: “初始化”: 从“double”到“float”截断
+  (编译源文件“万年历.cpp”)
+  
+D:\c教学\玩C++\课程设计万年历2.0\课程设计万年历\LunarToYear.h(47,68): warning C4305: “初始化”: 从“double”到“float”截断
+  (编译源文件“万年历.cpp”)
+  
+D:\c教学\玩C++\课程设计万年历2.0\课程设计万年历\LunarToYear.h(47,74): warning C4305: “初始化”: 从“double”到“float”截断
+  (编译源文件“万年历.cpp”)
+  
+D:\c教学\玩C++\课程设计万年历2.0\课程设计万年历\LunarToYear.h(47,80): warning C4305: “初始化”: 从“double”到“float”截断
+  (编译源文件“万年历.cpp”)
+  
+D:\c教学\玩C++\课程设计万年历2.0\课程设计万年历\LunarToYear.h(47,86): warning C4305: “初始化”: 从“double”到“float”截断
+  (编译源文件“万年历.cpp”)
+  
+D:\c教学\玩C++\课程设计万年历2.0\课程设计万年历\LunarToYear.h(47,96): warning C4305: “初始化”: 从“double”到“float”截断
+  (编译源文件“万年历.cpp”)
+  
+D:\c教学\玩C++\课程设计万年历2.0\课程设计万年历\LunarToYear.h(47,102): warning C4305: “初始化”: 从“double”到“float”截断
+  (编译源文件“万年历.cpp”)
+  
+D:\c教学\玩C++\课程设计万年历2.0\课程设计万年历\LunarToYear.h(47,108): warning C4305: “初始化”: 从“double”到“float”截断
+  (编译源文件“万年历.cpp”)
+  
+D:\c教学\玩C++\课程设计万年历2.0\课程设计万年历\LunarToYear.h(47,115): warning C4305: “初始化”: 从“double”到“float”截断
+  (编译源文件“万年历.cpp”)
+  
+D:\c教学\玩C++\课程设计万年历2.0\课程设计万年历\LunarToYear.h(47,121): warning C4305: “初始化”: 从“double”到“float”截断
+  (编译源文件“万年历.cpp”)
+  
+D:\c教学\玩C++\课程设计万年历2.0\课程设计万年历\LunarToYear.h(47,128): warning C4305: “初始化”: 从“double”到“float”截断
+  (编译源文件“万年历.cpp”)
+  
+D:\c教学\玩C++\课程设计万年历2.0\课程设计万年历\LunarToYear.h(47,134): warning C4305: “初始化”: 从“double”到“float”截断
+  (编译源文件“万年历.cpp”)
+  
+D:\c教学\玩C++\课程设计万年历2.0\课程设计万年历\LunarToYear.h(47,140): warning C4305: “初始化”: 从“double”到“float”截断
+  (编译源文件“万年历.cpp”)
+  
+D:\c教学\玩C++\课程设计万年历2.0\课程设计万年历\LunarToYear.h(47,145): warning C4305: “初始化”: 从“double”到“float”截断
+  (编译源文件“万年历.cpp”)
+  
+D:\c教学\玩C++\课程设计万年历2.0\课程设计万年历\LunarToYear.h(47,151): warning C4305: “初始化”: 从“double”到“float”截断
+  (编译源文件“万年历.cpp”)
+  
+D:\c教学\玩C++\课程设计万年历2.0\课程设计万年历\LunarToYear.h(47,158): warning C4305: “初始化”: 从“double”到“float”截断
+  (编译源文件“万年历.cpp”)
+  
+D:\c教学\玩C++\课程设计万年历2.0\课程设计万年历\LunarToYear.h(49,24): warning C4305: “初始化”: 从“double”到“float”截断
+  (编译源文件“万年历.cpp”)
+  
+D:\c教学\玩C++\课程设计万年历2.0\课程设计万年历\LunarToYear.h(49,31): warning C4305: “初始化”: 从“double”到“float”截断
+  (编译源文件“万年历.cpp”)
+  
+D:\c教学\玩C++\课程设计万年历2.0\课程设计万年历\LunarToYear.h(49,39): warning C4305: “初始化”: 从“double”到“float”截断
+  (编译源文件“万年历.cpp”)
+  
+D:\c教学\玩C++\课程设计万年历2.0\课程设计万年历\LunarToYear.h(49,46): warning C4305: “初始化”: 从“double”到“float”截断
+  (编译源文件“万年历.cpp”)
+  
+D:\c教学\玩C++\课程设计万年历2.0\课程设计万年历\LunarToYear.h(49,54): warning C4305: “初始化”: 从“double”到“float”截断
+  (编译源文件“万年历.cpp”)
+  
+D:\c教学\玩C++\课程设计万年历2.0\课程设计万年历\LunarToYear.h(49,59): warning C4305: “初始化”: 从“double”到“float”截断
+  (编译源文件“万年历.cpp”)
+  
+D:\c教学\玩C++\课程设计万年历2.0\课程设计万年历\LunarToYear.h(49,66): warning C4305: “初始化”: 从“double”到“float”截断
+  (编译源文件“万年历.cpp”)
+  
+D:\c教学\玩C++\课程设计万年历2.0\课程设计万年历\LunarToYear.h(49,72): warning C4305: “初始化”: 从“double”到“float”截断
+  (编译源文件“万年历.cpp”)
+  
+D:\c教学\玩C++\课程设计万年历2.0\课程设计万年历\LunarToYear.h(49,82): warning C4305: “初始化”: 从“double”到“float”截断
+  (编译源文件“万年历.cpp”)
+  
+D:\c教学\玩C++\课程设计万年历2.0\课程设计万年历\LunarToYear.h(49,87): warning C4305: “初始化”: 从“double”到“float”截断
+  (编译源文件“万年历.cpp”)
+  
+D:\c教学\玩C++\课程设计万年历2.0\课程设计万年历\LunarToYear.h(49,93): warning C4305: “初始化”: 从“double”到“float”截断
+  (编译源文件“万年历.cpp”)
+  
+D:\c教学\玩C++\课程设计万年历2.0\课程设计万年历\LunarToYear.h(49,99): warning C4305: “初始化”: 从“double”到“float”截断
+  (编译源文件“万年历.cpp”)
+  
+D:\c教学\玩C++\课程设计万年历2.0\课程设计万年历\LunarToYear.h(49,105): warning C4305: “初始化”: 从“double”到“float”截断
+  (编译源文件“万年历.cpp”)
+  
+D:\c教学\玩C++\课程设计万年历2.0\课程设计万年历\LunarToYear.h(49,111): warning C4305: “初始化”: 从“double”到“float”截断
+  (编译源文件“万年历.cpp”)
+  
+D:\c教学\玩C++\课程设计万年历2.0\课程设计万年历\LunarToYear.h(49,116): warning C4305: “初始化”: 从“double”到“float”截断
+  (编译源文件“万年历.cpp”)
+  
+D:\c教学\玩C++\课程设计万年历2.0\课程设计万年历\LunarToYear.h(49,123): warning C4305: “初始化”: 从“double”到“float”截断
+  (编译源文件“万年历.cpp”)
+  
+D:\c教学\玩C++\课程设计万年历2.0\课程设计万年历\LunarToYear.h(49,129): warning C4305: “初始化”: 从“double”到“float”截断
+  (编译源文件“万年历.cpp”)
+  
+D:\c教学\玩C++\课程设计万年历2.0\课程设计万年历\LunarToYear.h(49,136): warning C4305: “初始化”: 从“double”到“float”截断
+  (编译源文件“万年历.cpp”)
+  
+D:\c教学\玩C++\课程设计万年历2.0\课程设计万年历\LunarToYear.h(49,142): warning C4305: “初始化”: 从“double”到“float”截断
+  (编译源文件“万年历.cpp”)
+  
+D:\c教学\玩C++\课程设计万年历2.0\课程设计万年历\LunarToYear.h(49,148): warning C4305: “初始化”: 从“double”到“float”截断
+  (编译源文件“万年历.cpp”)
+  
+D:\c教学\玩C++\课程设计万年历2.0\课程设计万年历\LunarToYear.h(49,152): warning C4305: “初始化”: 从“double”到“float”截断
+  (编译源文件“万年历.cpp”)
+  
+D:\c教学\玩C++\课程设计万年历2.0\课程设计万年历\LunarToYear.h(49,157): warning C4305: “初始化”: 从“double”到“float”截断
+  (编译源文件“万年历.cpp”)
+  
+D:\c教学\玩C++\课程设计万年历2.0\课程设计万年历\LunarToYear.h(49,162): warning C4305: “初始化”: 从“double”到“float”截断
+  (编译源文件“万年历.cpp”)
+  
+D:\c教学\玩C++\课程设计万年历2.0\课程设计万年历\LunarToYear.h(297,32): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+  (编译源文件“万年历.cpp”)
+  
+D:\c教学\玩C++\课程设计万年历2.0\课程设计万年历\LunarToYear.h(298,66): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+  (编译源文件“万年历.cpp”)
+  
+D:\c教学\玩C++\课程设计万年历2.0\课程设计万年历\LunarToYear.h(302,32): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+  (编译源文件“万年历.cpp”)
+  
+D:\c教学\玩C++\课程设计万年历2.0\课程设计万年历\LunarToYear.h(303,66): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+  (编译源文件“万年历.cpp”)
+  
+D:\c教学\玩C++\课程设计万年历2.0\课程设计万年历\LunarToYear.h(310,32): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+  (编译源文件“万年历.cpp”)
+  
+D:\c教学\玩C++\课程设计万年历2.0\课程设计万年历\LunarToYear.h(311,66): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+  (编译源文件“万年历.cpp”)
+  
+D:\c教学\玩C++\课程设计万年历2.0\课程设计万年历\LunarToYear.h(315,32): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+  (编译源文件“万年历.cpp”)
+  
+D:\c教学\玩C++\课程设计万年历2.0\课程设计万年历\LunarToYear.h(316,66): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+  (编译源文件“万年历.cpp”)
+  
+D:\c教学\玩C++\课程设计万年历2.0\课程设计万年历\CASE3.h(23,22): warning C4101: “day”: 未引用的局部变量
+  (编译源文件“万年历.cpp”)
+  
+D:\c教学\玩C++\课程设计万年历2.0\课程设计万年历\CASE3.h(23,15): warning C4101: “month”: 未引用的局部变量
+  (编译源文件“万年历.cpp”)
+  
+D:\c教学\玩C++\课程设计万年历2.0\课程设计万年历\CASE3.h(20,9): warning C4101: “num”: 未引用的局部变量
+  (编译源文件“万年历.cpp”)
+  
+D:\c教学\玩C++\课程设计万年历2.0\课程设计万年历\endMovie.h(40,12): warning C4101: “msg”: 未引用的局部变量
+  (编译源文件“万年历.cpp”)
+  
+D:\c教学\玩C++\课程设计万年历2.0\课程设计万年历\万年历.cpp(35,10): warning C4101: “a”: 未引用的局部变量
+  课程设计万年历.vcxproj -> D:\c教学\玩C++\课程设计万年历2.0\x64\Debug\课程设计万年历.exe
